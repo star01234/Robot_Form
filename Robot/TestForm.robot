@@ -16,7 +16,7 @@ ${Valid_YearB_E}          2546
 ${Valid_ID_Card}        1709800405722
 ${Valid_Password}        IsNotPassword1
 ${Valid_Phone_number}     0658624304
-${Valid_Email_Webmail}    654259017@webmail.npru.ac.th
+${Valid_Email_Webmail}    654259030@webmail.npru.ac.th
 ${SCROLL_SCRIPT_DOWN}    window.scrollTo(0, document.body.scrollHeight);
 
 *** Test Cases ***
