@@ -139,13 +139,13 @@ Verify Signup Success
     Page Should Contain    Submitting...
 
 Verify Invalid Name_TH_Only
-    Page Should Contain    Must be in Thai only
+    Page Should Contain    ต้องเป็นภาษาไทยเท่านั้น
 
 Verify Invalid Name_EN_Only
-    Page Should Contain    Must be in English only
+    Page Should Contain    ต้องเป็นภาษาอังกฤษเท่านั้น
 
 Verify Invalid IDcard_Only
-    Page Should Contain    number only
+    Page Should Contain    ต้องเป็นตัวเลขเท่านั้น
 
 Verify Invalid Password_Only
     Page Should Contain    Password must contain at least one number letter
